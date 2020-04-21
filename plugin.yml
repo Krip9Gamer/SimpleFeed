@@ -1,0 +1,9 @@
+name: SimpleFeed
+version: 1.0.0
+main: Krip9Gamer/Main
+api: 3.0.0
+author: Krip9Gamer
+
+commands:
+  feed:
+    description: "Makes your Hunger Bar Full"
